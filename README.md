@@ -3,7 +3,7 @@
   <a href="https://ehtisha-portfolio.netlify.app/" target="_blank">ehtisham-ali6393</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="portfolio-project.png" />
 </div>
 
 <br/>
