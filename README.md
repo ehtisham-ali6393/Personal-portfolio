@@ -41,6 +41,11 @@ Don't hesitate to connect with me! Whether you're interested in discussing poten
 - [LinkedIn](www.linkedin.com/in/ehtisham-ali-4a19831a0)
 - [Email](ehtishamofficial23@gmail.com)
 - [Project Demo](https://ehtisha-portfolio.netlify.app/)
+- Or Scan This QR to visit my Portfolio.
+
+    <img alt="Demo" src="portfolio-project.png" />
+
+
 
 Thank you for visiting my personal portfolio. Let's connect and create something amazing together!
 
