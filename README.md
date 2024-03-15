@@ -43,7 +43,9 @@ Don't hesitate to connect with me! Whether you're interested in discussing poten
 - [Project Demo](https://ehtisha-portfolio.netlify.app/)
 - Or Scan This QR to visit my Portfolio.
 
-    <img alt="Demo" src="portfolio-project.png" />
+<div align="center">
+    <img alt="Demo" src="Portfolio QR.png" />
+</div>    
 
 
 
