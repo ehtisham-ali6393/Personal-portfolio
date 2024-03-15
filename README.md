@@ -44,7 +44,7 @@ Don't hesitate to connect with me! Whether you're interested in discussing poten
 - Or Scan This QR to visit my Portfolio.
 
 <div align="center">
-    <img alt="Demo" src="Portfolio QR.png" />
+    <img alt="Demo" src="Portfolio_QR.png" />
 </div>    
 
 
