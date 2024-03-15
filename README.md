@@ -1,6 +1,6 @@
 <h2 align="center">
   Personal portfolio <br/>
-  <a href="https://ehtisha-portfolio.netlify.app/" target="_blank"></a>
+<!--  <a href="https://ehtisha-portfolio.netlify.app/" target="_blank"></a> -->
 </h2>
 <div align="center">
   <img alt="Demo" src="portfolio-project.png" />
@@ -47,7 +47,7 @@ Don't hesitate to connect with me! Whether you're interested in discussing poten
     <img alt="Demo" src="Portfolio_QR.png" />
 </div>    
 
-
+<br>
 
 Thank you for visiting my personal portfolio. Let's connect and create something amazing together!
 
